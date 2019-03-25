@@ -1,0 +1,36 @@
+body 
+{
+    background-image: url("exhange.png");
+}
+
+#container
+{
+    margin: auto;
+    margin-top: 10%;
+    height: 500px;
+    width: 800px;
+    background-color: rgb(11, 60, 93);
+    border-radius: 10%;
+    text-align: center;
+}
+
+#navigation
+{
+    width: 90%;
+    height: 30%;
+    margin: auto;
+    display: inline-block;
+    border-radius: 10%;
+    text-align: center;
+    background-color: green;
+}
+
+#currency1
+{
+    margin-left: 10%;
+}
+
+#currency2
+{
+    margin-right: 10%;
+}
